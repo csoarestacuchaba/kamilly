@@ -13,3 +13,7 @@ https://mdbootstrap.com/docs/standard/cli/
 
 Support:
 https://mdbootstrap.com/support/cat/react/
+
+instalar Composer
+
+instalar xampp y descomprimir en htdocs, habilitar el archivo intl en php.ini
